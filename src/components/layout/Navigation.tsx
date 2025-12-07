@@ -10,8 +10,8 @@ const DEFAULT_NAVIGATION = {
   brandName: 'AI TrainHub',
   brandIcon: 'brain',
   navItems: [
-    { label: 'Home', href: '#hero' },
-    { label: 'Features', href: '#features' },
+    { label: 'Home', href: '/' },
+    { label: 'Pricing', href: '/pricing' },
   ],
   ctaText: 'Get Started',
   ctaHref: '/signup',
