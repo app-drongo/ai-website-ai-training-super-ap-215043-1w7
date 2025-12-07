@@ -12,6 +12,7 @@ const DEFAULT_NAVIGATION = {
   navItems: [
     { label: 'Home', href: '/' },
     { label: 'Pricing', href: '/pricing' },
+    { label: 'Contact', href: '/contact' },
   ],
   ctaText: 'Get Started',
   ctaHref: '/signup',
